@@ -1,0 +1,10 @@
+{
+    "name": "piss-mod" ,
+    "version": "0.0.1",
+	"title": "Piss mod",
+	"author": "That1Cam, Sarrmando, Bloop",
+	"factorio_version": "1.1",
+	"homepage": "", 
+	"description": "A mod that adds piss and piss based tools!",
+	"dependencies": []
+}

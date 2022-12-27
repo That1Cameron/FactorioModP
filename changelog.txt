@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 12. 26. 2022
+  Major Features:
+    - Initial creation.
+    - This general section is the 0.0.1 version section.
