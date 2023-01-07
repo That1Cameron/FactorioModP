@@ -7,13 +7,8 @@ data:extend({
         type = "autoplace-control",
         category = "resource",
         name = "piss-ore",
+        localised_name = {"", "[entity=piss-ore] ", {"entity-name.piss-ore"}},
         icon_size = 64,
-        icons = {
-            {   
-                icon = "__base__/graphics/icons/copper-ore.png",
-                tint = {r=1,g=1,b=0, a=0.3}
-            }
-        },
         richness = true,
         order = "b-e"
 	},
